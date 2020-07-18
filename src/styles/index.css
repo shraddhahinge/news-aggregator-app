@@ -100,7 +100,7 @@ h1 {
   margin-left: 25px;
   list-style-type: none;
 }
-.load {
+.article-description {
   color: var(--font-color);
   font-family: sans-serif;
   font-size: 35px;
